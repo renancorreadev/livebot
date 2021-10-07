@@ -166,7 +166,7 @@ to.transfer(address(this).balance);
 
 ```
 
-> This function  was implemented due to the increase of BNBs that were lost sent to the contract  address, this  is a solidarity in case someone proves that they sent BNBs to the contract  by accident.
+> This function  was implemented due to the increase of ETHs that were lost sent to the contract  address, this  is a solidarity in case someone proves that they sent BNBs to the contract  by accident.
 
 **> Trading Bots rewards for holders**
 
